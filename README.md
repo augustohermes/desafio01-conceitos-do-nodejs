@@ -27,7 +27,7 @@ Será permitida a criação de um usuário com `name` e `username`, b
 - [x] Marcar um *todo* como feito;
 - [x] Excluir um *todo*;
 
-## 📌 Tudo isso para cada usuário em específico (o `username` será passado pelo header).
+📌 Tudo isso para cada usuário em específico (o `username` será passado pelo header).
 
 <br> 
 
