@@ -27,6 +27,6 @@ Essa será uma aplicação para gerenciar tarefas (em inglês *todos*). S
 
 Tudo isso para cada usuário em específico (o `username` será passado pelo header).
 
-<br>
+<br> ##
 
 Feito com ❤️ por [Augusto Hermes](https://github.com/augustohermes) 👋.
