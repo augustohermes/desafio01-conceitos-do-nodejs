@@ -25,8 +25,8 @@ Essa será uma aplicação para gerenciar tarefas (em inglês *todos*). S
 - [x] Marcar um *todo* como feito;
 - [x] Excluir um *todo*;
 
-Tudo isso para cada usuário em específico (o `username` será passado pelo header).
+## Tudo isso para cada usuário em específico (o `username` será passado pelo header).
 
-<br> ##
+<br> 
 
 Feito com ❤️ por [Augusto Hermes](https://github.com/augustohermes) 👋.
